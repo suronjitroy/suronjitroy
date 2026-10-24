@@ -2,10 +2,10 @@
 
 I'm a Python developer from Bangladesh 🇧🇩. I like building small apps and automation scripts that save time.
 
-- 🔭 Currently working on: **YOUR CURRENT PROJECT**
-- 🌱 Currently learning: **YOUR LEARNING TOPIC (e.g. Data Structures, Django, Machine Learning)**
+- 🔭 Currently working on: **New Game**
+- 🌱 Currently learning: 3D Modeling  (e.g. Data Structures, Django, Machine Learning)**
 - 🤝 Open to: open source contributions and collaboration
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suronjit-roy) · [Email](mailto:suronjitraj2034@gmail.com)
 
 ## 🛠 Skills
 
@@ -26,5 +26,5 @@ I'm a Python developer from Bangladesh 🇧🇩. I like building small apps and 
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=suronjitroy&show_icons=true&hide_border=true&theme=dark" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suronjitroy&layout=compact&hide_border=true&theme=dark" />
