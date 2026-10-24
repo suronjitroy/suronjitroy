@@ -1,79 +1,86 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=SURONJIT%20ROY&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=PYTHON%20DEVELOPER%20%7C%20GAMER&descAlignY=55" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+ONLINE;%3E+PYTHON+DEVELOPER;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+BUILDING+THE+FUTURE+WITH+CODE" alt="Animated Typing" /><br><img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/LEVEL-15-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/HP-100%2F100-00FF41?style=for-the-badge&labelColor=000000" /></div>---
+<!-- Replace every YOUR_USERNAME with your GitHub username, and YOUR NAME with your name -->
 
-🟢 "01 // PLAYER PROFILE"
+<div align="center">
 
-class SuronjitRoy:
-    name = "Suronjit Roy"
-    role = "Python Developer / Gamer"
-    level = 15
-    hp = "100/100 💚"
-    location = "Bangladesh 🇧🇩"
-    main_quest = "Building Awesome Python Apps"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=YOUR%20NAME&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%2F%20Gamer&descAlignY=58&descSize=22" width="100%"/>
 
-    def start_quest(self):
-        return "MISSION STARTED! 🚀"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+awesome+Python+apps+%26+scripts;Code+%E2%86%92+Automate+%E2%86%92+Build+%E2%86%92+Repeat;Game+Over%3F+Never!" alt="Typing SVG" />
 
+![Level](https://img.shields.io/badge/Level-15-00ff41?style=for-the-badge&logo=starship&logoColor=black&labelColor=0d1117)
+![HP](https://img.shields.io/badge/HP-100%2F100-00ff41?style=for-the-badge&logo=githubsponsors&logoColor=00ff41&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Bangladesh-%F0%9F%87%A7%F0%9F%87%A9-00ff41?style=for-the-badge&labelColor=0d1117)
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
-player = SuronjitRoy()
-print(player.start_quest())
+</div>
 
 ---
 
-🌍 "02 // 3D HOLOGRAPHIC WORLD MAP"
+## 🎮 PLAYER INFO
 
-<div align="center"><img src="./world-map.gif" width="100%" alt="Animated Neon Green 3D World Map" />🟢 GLOBAL DEVELOPER NETWORK
+```yaml
+Name      : YOUR NAME
+Class     : Python Developer / Gamer
+Level     : 15
+HP        : 100/100 ❤️
+Location  : Bangladesh 🇧🇩
+Main Quest: Building awesome Python apps & scripts
+```
 
-"BANGLADESH 🇧🇩 • CODE • CONNECT • CONQUER"
+## ⚙️ TECH ARSENAL
 
-</div>---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,js,html,css&theme=dark" />
+</p>
 
-⚡ "03 // TECH ARSENAL"
+```bash
+> Code
+> Automate
+> Build
+> Repeat
+```
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash&theme=dark" alt="Tech Stack" /><br><br>
+## 🎯 CURRENT QUESTS
 
-<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" /></div>---
+- [x] Master Python
+- [x] Build Automation Scripts
+- [x] Create Awesome Projects
+- [x] Explore Open Source
+- [ ] Level Up Skills
+- [ ] Make an Impact
 
-📊 "04 // GITHUB SYSTEM STATS"
+## 📊 GITHUB STATS
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=suronjitroy&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suronjitroy&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" /><br><br>
+<div align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=suronjitroy&theme=black-ice&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" /></div>---
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=7CFC00&icon_color=00ff41&ring_color=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=7CFC00" />
 
-🟩 "05 // CONTRIBUTION ACTIVITY"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=7CFC00&currStreakNum=7CFC00&sideNums=7CFC00&dates=7CFC00" />
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=suronjitroy&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" /></div>---
+</div>
 
-🏆 "06 // ACHIEVEMENTS UNLOCKED"
+## 📈 CONTRIBUTION ACTIVITY
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=suronjitroy&theme=matrix&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub Trophies" /></div>---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%"/>
 
-🎯 "07 // CURRENT QUESTS"
+## 🏆 ACHIEVEMENTS UNLOCKED
 
-- [x] 🐍 Start Python Development
-- [x] 💻 Explore Git & GitHub
-- [ ] ⚙️ Build Automation Scripts
-- [ ] 🚀 Create Awesome Applications
-- [ ] 🌐 Contribute to Open Source
-- [ ] 🏆 Level Up Programming Skills
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
 
----
+## 🔗 CONNECT WITH ME
 
-🌐 "08 // CONNECT WITH ME"
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<div align="center"><a href="https://www.linkedin.com/in/suronjit-roy">
-<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn" />
-</a><a href="mailto:suronjitraj2034@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" alt="Email" />
-</a><br><br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=suronjitroy&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views" /></div>---
+```
+> Keep Coding
+> Keep Gaming
+> Keep Leveling Up
+> Game Over? Never!
+```
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=700&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+KEEP+CODING;%3E+KEEP+GAMING;%3E+KEEP+BUILDING;%3E+NEVER+STOP+LEVELING+UP" alt="Animated Footer" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=120&section=footer" width="100%" />💚 CODE • CREATE • CONQUER
-
-"SYSTEM STATUS: ONLINE"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
