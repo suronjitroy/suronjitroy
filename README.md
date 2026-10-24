@@ -3,7 +3,7 @@
 I'm a Python developer from Bangladesh 🇧🇩. I like building small apps and automation scripts that save time.
 
 - 🔭 Currently working on: **New Game**
-- 🌱 Currently learning: 3D Modeling  (e.g. Data Structures, Django, Machine Learning)**
+- 🌱 Currently learning: 3D Modeling  
 - 🤝 Open to: open source contributions and collaboration
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suronjit-roy) · [Email](mailto:suronjitraj2034@gmail.com)
 
